@@ -1,0 +1,12 @@
+# ignore all .txt files
+*.txt
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Code editor files
+.vscode/
+
+# Student secrets / personal notes
+secrets.txt
